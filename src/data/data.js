@@ -146,8 +146,8 @@ export default [
   {
     "Country": "Reino Unido",
     "Alpha3Code": "GBR",
-    "Leader": "Rishi Sunak",
-    "Age": 44,
+    "Leader": "Keir Starmer",
+    "Age": 61,
     "DemocracyIndex": 8.28,
     "DemocracyType": "Democracia plena"
   },
@@ -714,7 +714,7 @@ export default [
   {
     "Country": "Ucrania",
     "Alpha3Code": "UKR",
-    "Leader": "Volodymyr Zelenskyy",
+    "Leader": "Volodímir Zelenski",
     "Age": 46,
     "DemocracyIndex": 5.06,
     "DemocracyType": "Régimen híbrido"
@@ -730,7 +730,7 @@ export default [
   {
     "Country": "Marruecos",
     "Alpha3Code": "MAR",
-    "Leader": "Mohammed VI",
+    "Leader": "Mohamed VI",
     "Age": 60,
     "DemocracyIndex": 5.04,
     "DemocracyType": "Régimen híbrido"
@@ -898,7 +898,7 @@ export default [
   {
     "Country": "Kuwait",
     "Alpha3Code": "KWT",
-    "Leader": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+    "Leader": "Mishal al Ahmad al Jaber al Sabah",
     "Age": 83,
     "DemocracyIndex": 3.5,
     "DemocracyType": "Régimen autoritario"
@@ -962,7 +962,7 @@ export default [
   {
     "Country": "Jordania",
     "Alpha3Code": "JOR",
-    "Leader": "Abdullah II bin Al-Hussein",
+    "Leader": "Abdalá II",
     "Age": 62,
     "DemocracyIndex": 3.04,
     "DemocracyType": "Régimen autoritario"
@@ -1098,7 +1098,7 @@ export default [
   {
     "Country": "Rusia",
     "Alpha3Code": "RUS",
-    "Leader": "Vladimir Putin",
+    "Leader": "Vladímir Putin",
     "Age": 71,
     "DemocracyIndex": 2.22,
     "DemocracyType": "Régimen autoritario"
@@ -1146,7 +1146,7 @@ export default [
   {
     "Country": "Arabia Saudí",
     "Alpha3Code": "SAU",
-    "Leader": "Salman bin Abdulaziz Al Saud",
+    "Leader": "Salmán bin Abdulaziz",
     "Age": 88,
     "DemocracyIndex": 2.08,
     "DemocracyType": "Régimen autoritario"
@@ -1170,7 +1170,7 @@ export default [
   {
     "Country": "Irán",
     "Alpha3Code": "IRN",
-    "Leader": "Ali Jamenei",
+    "Leader": "Alí Jamenei",
     "Age": 85,
     "DemocracyIndex": 1.96,
     "DemocracyType": "Régimen autoritario"
@@ -1178,7 +1178,7 @@ export default [
   {
     "Country": "Yemen",
     "Alpha3Code": "YEM",
-    "Leader": "Rashad al-Alimi",
+    "Leader": "Rashad al Alimi",
     "Age": 70,
     "DemocracyIndex": 1.95,
     "DemocracyType": "Régimen autoritario"
@@ -1210,7 +1210,7 @@ export default [
   {
     "Country": "Sudán",
     "Alpha3Code": "SDN",
-    "Leader": "Abdel Fattah al-Burhan",
+    "Leader": "Abdel Fattah al Burhan",
     "Age": 63,
     "DemocracyIndex": 1.76,
     "DemocracyType": "Régimen autoritario"
@@ -1250,7 +1250,7 @@ export default [
   {
     "Country": "Siria",
     "Alpha3Code": "SYR",
-    "Leader": "Bashar al-Assad",
+    "Leader": "Bashar al Asad",
     "Age": 58,
     "DemocracyIndex": 1.43,
     "DemocracyType": "Régimen autoritario"
@@ -1266,7 +1266,7 @@ export default [
   {
     "Country": "Corea del Norte",
     "Alpha3Code": "PRK",
-    "Leader": "Kim Jong Un",
+    "Leader": "Kim Jong-un",
     "Age": 42,
     "DemocracyIndex": 1.08,
     "DemocracyType": "Régimen autoritario"
